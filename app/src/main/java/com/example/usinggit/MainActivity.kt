@@ -10,4 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
     val str = "Hello"
     //Connect Firebase to the project
+    // add login feature
+    
 }
