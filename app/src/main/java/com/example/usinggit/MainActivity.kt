@@ -9,5 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     val str = "Hello"
-
+    //Connect Firebase to the project
 }
